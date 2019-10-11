@@ -15,7 +15,6 @@ let value = [
     {id:4,value:75},
     {id:5,value:96},
   ]
-
 function App() {
   // const generateData = (value, length = 6) =>
   //   d3.range(length).map((item, index) => ({
