@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+body {
+  font-family: "Lato", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  background: #22272b;
+  color: #fff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 25px;
+  text-align: center;
+  --color-background: #22272b;
+  --color-on-background: #fff;
+  --color-layer-transparent: rgba(0, 5, 11, 0.9);
+  --color-surface: #2c343a;
+  --color-primary: #67c2e4;
+  --color-on-primary: #fff;
+}
+
+.container {
+  margin: 55px;
+}
